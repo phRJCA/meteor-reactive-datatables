@@ -5,7 +5,8 @@ Provides a [meteor.js](http://www.meteor.com) way of using [jquery.dataTables](h
 
 ## Installation
 
-`meteor add ephemer:reactive-datatables`
+Git clone this fork into your top level packages folder, then
+`meteor add phrjca:reactive-datatables`
 
 ## Usage
 
